@@ -1,0 +1,8 @@
+# 원자료와 전처리 결과는 재배포 조건 때문에 올리지 않음 (data/README.md 참고)
+data/raw/*
+data/processed/*
+!data/README.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
